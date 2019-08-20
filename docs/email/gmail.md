@@ -3,9 +3,9 @@
 
 ## Gmail Login Alias
 
-You can also setup a google account alias, so that you can login to gmail using the example@goldyshowhens.com by using the following steps:
+You can also setup a google account alias, so that you can login to gmail using the `example@goldyshowhens.com` by using the following steps:
 
-1.	Go to: https://myaccount.google.com
+1.	Go to: [https://myaccount.google.com](https://myaccount.google.com)
 2.	Click on the `Personal Info` tab at the top of the page.
 3.	Scroll down to the `Contact Info` box.
 4.	In the `Contact Info` box click the `Email` box.
@@ -23,7 +23,7 @@ In order to send an email as `example@goldyshowhens.net` using a gmail account, 
 
 #### Step 1: Generate your app password
 
-1. On your computer, go to your Google Account. 
+1. On your computer, go to your [Google Account](https://myaccount.google.com). 
 2. At the left, click Security. 
 3. Under "Signing in to Google," click App passwords and sign in, if required.
     - If you don't find "App passwords," click 2-Step Verification and follow the steps to turn on 2-step verification for your account. You may have to sign in again.
@@ -34,7 +34,7 @@ In order to send an email as `example@goldyshowhens.net` using a gmail account, 
 
 #### Step 2: Add an email alias
 
-1.  On your computer, go to Gmail.
+1.  On your computer, go to [Gmail](https://mail.google.com).
 2.  At the top right, click Settings Settingsand then Settings.
 3.  Select the Accounts and import or Accounts tab.
 4.  In the "Send mail as," click Add another email address.
@@ -50,7 +50,7 @@ In order to send an email as `example@goldyshowhens.net` using a gmail account, 
 
 #### Step 3: Confirm the address
 
-1. On your computer, go to Gmail.
+1. On your computer, go to [Gmail](https://mail.gmail.com).
 2. Open the confirmation message you received from Gmail.
 3. Click the link. 
 
